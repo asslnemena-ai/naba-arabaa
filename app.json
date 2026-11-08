@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "نبع عربا",
+    "slug": "naba-arabaa",
+    "scheme": "nabaarabaa",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "android": {"package": "sa.nabaarabaa.app"}
+  }
+}
