@@ -5,15 +5,18 @@
   },
   "build": {
     "preview": {
+      "node": "22.23.3",
       "distribution": "internal",
       "android": {
         "buildType": "apk"
       }
     },
     "production": {
+      "node": "22.23.3",
       "android": {
         "buildType": "app-bundle"
-      }
+      },
+      "ios": {}
     }
   }
 }
